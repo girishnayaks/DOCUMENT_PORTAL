@@ -10,3 +10,7 @@ LLMOPS-Industry Ready Projects
     a. Inmemory
     b. Ondisk
     c. Cloudbase
+
+
+#GROQ API Key
+
